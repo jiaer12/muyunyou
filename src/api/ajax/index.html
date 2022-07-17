@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>使用Promise改造封装好的Ajax</title>
+</head>
+
+<body>
+
+</body>
+<script type="module">
+    import { ajax, get, getJSON, post } from './index.js';
+    const url = 'https://www.imooc.com/api/http/search/suggest?word=js';
+    const p = getJSON(url, {
+        params: { username: 'jiaer' },
+        data: { age: 21 }
+
+        // 这边就不用导入success等这些函数
+        // 直接在下面使用then就可以识别多种状态
+    });
+    p.then(response => {
+        console.log(response);
+    }).catch(err => {
+        console.log(err);
+    })
+
+</script>
+
+</html>
