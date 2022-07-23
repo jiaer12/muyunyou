@@ -1,0 +1,45 @@
+
+.xxsw .hd {
+  margin-bottom: 32px;
+}
+
+.content-part h2 {
+  font-size: 36px;
+  font-weight: bold;
+  color: #1C1F21;
+}
+
+.xxsw .hd h2 {
+  float: left;
+}
+
+.content-part em {
+  position: relative;
+  top: 20px;
+  left: 10px;
+  color: #1C1F21;
+  float: left;
+}
+
+.xxsw ul li {
+  float: left;
+  width: 264px;
+  height: 270px;
+  margin-right: 32px;
+  background: white;
+  margin-bottom: 32px;
+}
+
+.xxsw ul li:nth-child(4n) {
+  margin-right: 0;
+}
+
+.xxsw ul li .wordbox {
+  padding: 15px;
+  color: #1C1F21;
+  font-size: 14px;
+}
+
+.xxsw ul li:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.20);
+}

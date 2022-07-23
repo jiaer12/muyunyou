@@ -1,0 +1,88 @@
+<div class="hd clearfix">
+  <h2>跟团/半自助游</h2>
+  <em>旅游需要好的选择，踏实省心</em>
+  <nav>
+      <ul>
+          <li class="current"><a href="">半自助游</a></li>
+          <li><a href="">城市CityWalk</a></li>
+      </ul>
+  </nav>
+</div>
+<div class="bd">
+  <ul>
+      <li class="big-grid havehover">
+          <a href="">
+              <div class="mask"></div>
+              <div class="circle">
+                  <p>半自助游</p>
+                  <p>CityWalk</p>
+              </div>
+              <div class="word">
+                  【City Walk】大阪浪花の城——美食、动漫和不为人知的大阪人辛秘生活
+              </div>
+              <img src="images/yh.png" alt="">
+          </a>
+      </li>
+      <li class="pro-grid">
+          <a href="">
+              <div class="picbox">
+                  <img src="images/gt2.png" alt="">
+              </div>
+              <div class="wordbox">
+                  成都/西安直飞清迈+拜县6-7天半自助游（2-8人纯玩私家小包团+萌妹…
+              </div>
+          </a>
+      </li>
+      <li class="pro-grid">
+          <a href="">
+              <div class="picbox">
+                  <img src="images/gt3.png" alt="">
+              </div>
+              <div class="wordbox">
+                  [一价全含] 北京直飞日本东京+大阪+名古屋+京都6/7天深度游（全程…
+              </div>
+          </a>
+      </li>
+      <li class="pro-grid">
+          <a href="">
+              <div class="picbox">
+                  <img src="images/gt4.png" alt="">
+              </div>
+              <div class="wordbox">
+                  天津直飞芽庄5-7天半自助游（优质越南/越捷航空，12天自由行/赠送京…
+              </div>
+          </a>
+      </li>
+      <li class="pro-grid">
+          <a href="">
+              <div class="picbox">
+                  <img src="images/gt5.png" alt="">
+              </div>
+              <div class="wordbox">
+                  广州直飞美娜多5-6半自助游（班达尼莫公园+布纳肯浮潜+1-2天自由活…
+              </div>
+          </a>
+      </li>
+      <li class="pro-grid">
+          <a href="">
+              <div class="picbox">
+                  <img src="images/gt6.png" alt="">
+              </div>
+              <div class="wordbox">
+                  (免签入境）深圳直飞伊朗德黑兰8天5晚半自助游（含国际往返机票+伊…
+              </div>
+          </a>
+      </li>
+      <li class="more-grid">
+          <a href="">
+              <p>查看更多</p>
+              <p>精品跟团/半自助游</p>
+              <span class="iconfont">&#xe619;</span>
+              <ul>
+                  <li>跟团游</li>
+                  <li>半自助游</li>
+              </ul>
+          </a>
+      </li>
+  </ul>
+</div>

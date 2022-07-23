@@ -1,0 +1,17 @@
+.zsjsdlx .hd em {
+  float: left;
+  width: 307px;
+}
+
+.zsjsdlx .hd nav {
+  float: right;
+  width: 85px;
+}
+
+.zsjsdlx .bd .more-grid {
+  background-image: linear-gradient(180deg, #BD5EE8 0%, #832ABB 98%);
+}
+
+.zsjsdlx .bd .more-grid ul {
+  padding-left: 41px;
+}
